@@ -53,7 +53,7 @@ const Weather = () => {
 
     // useEffect hook to fetch weather for "London" on starting
     useEffect(() => {
-        search("London");
+        search("Delhi");
     }, []);
 
     // Function to handle the 'Enter' key press event
